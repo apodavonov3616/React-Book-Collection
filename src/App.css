@@ -1,0 +1,70 @@
+* #root {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.App {
+  width: 100%;
+}
+
+* {
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  padding: 30px 0 30px 0;
+  background: rgb(177, 124, 102);
+  color: rgb(252, 252, 252);
+}
+
+.header h2 {
+  display: inline;
+  margin-left: 15px;
+  font-weight: 300;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  padding: 15px 25px 15px 25px;
+}
+
+thead tbody {
+  text-align: left;
+}
+
+.title-link:hover {
+  cursor: pointer;
+  color: rgb(177, 124, 102)
+}
+
+.pagination {
+  display: inline-block;
+  color: rgb(214, 214, 233);
+}
+
+.pagination a {
+  color: rgb(147, 202, 140);
+  float: left;
+  padding: 30px 30px 8px 30px;
+  text-decoration: bold;
+  transition: background-color .3s;
+}
+
+.sorting-container {
+  width: 100px;
+  position: relative;
+  top: -40px;
+  left: 80%;
+}
+
+.search-container {
+  padding: 10px;
+}
+
+.header-text:hover {
+  cursor: pointer;
+}
