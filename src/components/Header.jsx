@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <div className="header">
             <i className="fa-solid fa-book fa-2xl" ></i>
-            <h2 onClick={refreshPage} className="header-text">Book Collection</h2>
+            <h2 onClick={refreshPage} className="header-text">Alisher's Book Collection</h2>
         </div>
     )
 }

@@ -1,6 +1,6 @@
 * #root {
   width: 100%;
-  max-width: 1280px;
+  max-width: 1380px;
   margin: 0 auto;
   text-align: center;
 }
@@ -47,7 +47,7 @@ thead tbody {
 }
 
 .pagination a {
-  color: rgb(147, 202, 140);
+  color: rgb(52, 105, 45);
   float: left;
   padding: 30px 30px 8px 30px;
   text-decoration: bold;

@@ -1,6 +1,6 @@
 # Book Collection
 
-I have created a React Book Collection Project. The books are retreived from an online API that returns a JSON object of famous books. I incorporated these books into my application once the page is mounted. My application contains several features such as:
+I have created a Book Collection Project. The books are retreived from an online API that returns a JSON object of famous books. I incorporated these books into my application once the page is mounted. My application contains several features such as:
 
 -pagination of books into multiple pages
 -search functionality based on keywords
